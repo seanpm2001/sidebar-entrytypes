@@ -1,6 +1,6 @@
 <?php
 /**
-* Entry Types plugin for Craft CMS 3.x
+* Entry Types plugin for Craft CMS 4.x
 *
 * Easily switch between entry types in entries section
 *
@@ -43,7 +43,7 @@ class SidebarEntryTypes extends Plugin
   /**
   * @var string
   */
-  public string $schemaVersion = '1.0.0';
+  public string $schemaVersion = '2.0.0';
 
   // Public Methods
   // =========================================================================
