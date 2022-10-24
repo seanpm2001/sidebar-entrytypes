@@ -36,5 +36,11 @@
     "hasCpSection": false,
     "changelogUrl": "https://github.com/ethercreative/sidebar-entrytypes/blob/master/CHANGELOG.md",
     "class": "ether\\sidebarentrytypes\\SidebarEntryTypes"
+  },
+  "config": {
+    "allow-plugins": {
+      "yiisoft/yii2-composer": true,
+      "craftcms/plugin-installer": true
+    }
   }
 }
