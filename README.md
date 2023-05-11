@@ -1,4 +1,4 @@
-# Entry Types plugin for Craft CMS 3.x
+# Entry Types plugin for Craft CMS 4.x
 
 Easily switch between entry types in entries section.
 
